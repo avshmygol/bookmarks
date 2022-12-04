@@ -32,7 +32,7 @@
 /public/assets
 
 # Ignore master key for decrypting credentials and more.
-/credentials.yml.enc
+/config/credentials.yml.enc
 /config/master.key
 
 # Ignore database info: login and password
